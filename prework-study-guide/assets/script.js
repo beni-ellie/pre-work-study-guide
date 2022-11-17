@@ -1,12 +1,10 @@
 var topics = ["HTML", "CSS", "Git", "JavaScript"];
-console.log(topics[0]);
-console.log(topics[1]);
-console.log(topics[2]);
-console.log(topics[3]);
 for (var x = 0; x < topics.length; x++) {
     //code block
 }
-
+for(var x = 0; x < topics.length; x++) {
+    console.log(topics[x]);
+}
 /*
 if (topic === 'HTML') {
  console.log("Let's study HTML!");
