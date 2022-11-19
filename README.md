@@ -24,6 +24,7 @@ Each category has details on how to use;
 
 N/A
 
+  
 ## License
 
 MIT License
