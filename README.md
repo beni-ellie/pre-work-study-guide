@@ -20,10 +20,10 @@ Each category has details on how to use;
 <li>JavaScript
 <li>Git
 
+
 ## Credits
 
 N/A
-
   
 ## License
 
